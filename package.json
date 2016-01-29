@@ -55,9 +55,6 @@
     "rimraf": "^2.4.3",
     "webpack": "^1.12.3"
   },
-  "peerDependencies": {
-    "history": "^1.12.1"
-  },
   "dependencies": {
     "dom-helpers": "^2.4.0"
   }
